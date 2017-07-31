@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mTypeCastSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can parse decimal type values[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can parse escaped characters[0m[0m
+[0m[[0minfo[0m] [0m[32m- Does not accept delimiter larger than one character[0m[0m
+[0m[[0minfo[0m] [0m[32m- Throws exception for unsupported escaped characters[0m[0m
+[0m[[0minfo[0m] [0m[32m- Nullable types are handled[0m[0m
+[0m[[0minfo[0m] [0m[32m- String type should always return the same as the input[0m[0m
+[0m[[0minfo[0m] [0m[32m- Throws exception for empty string with non null type[0m[0m
+[0m[[0minfo[0m] [0m[32m- Types are cast correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- Float and Double Types are cast correctly with Locale[0m[0m
+[0m[[0minfo[0m] [0m[32m- Can handle mapping user specified nullValues[0m[0m

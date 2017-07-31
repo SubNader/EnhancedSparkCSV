@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/long-cols.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/long-cols.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars-malformed.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars-malformed.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/dates.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/dates.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars_iso-8859-1.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars_iso-8859-1.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/comments.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/comments.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/log4j.properties,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/log4j.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/simple.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/simple.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars.tsv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars.tsv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/disable_comments.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/disable_comments.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/empty.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/empty.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/null-numbers.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/null-numbers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars-unbalanced-quotes.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars-unbalanced-quotes.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/cars-alternative.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/cars-alternative.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/escape.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/escape.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/bool.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/bool.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/null_slashn_numbers.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/null_slashn_numbers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/null_null_numbers.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/null_null_numbers.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Downloads/spark-csv-master/Spark-CSV/src/test/resources/ages.csv,/home/nader/Downloads/spark-csv-master/Spark-CSV/target/scala-2.11/test-classes/ages.csv)[0m

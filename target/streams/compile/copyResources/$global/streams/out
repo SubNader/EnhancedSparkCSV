@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Desktop/Nader/Spark-CSV/src/main/resources/META-INF,/home/nader/Desktop/Nader/Spark-CSV/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Desktop/Nader/Spark-CSV/src/main/resources/META-INF/services,/home/nader/Desktop/Nader/Spark-CSV/target/scala-2.11/classes/META-INF/services)[0m
+[0m[[0mdebug[0m] [0m	(/home/nader/Desktop/Nader/Spark-CSV/src/main/resources/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister,/home/nader/Desktop/Nader/Spark-CSV/target/scala-2.11/classes/META-INF/services/org.apache.spark.sql.sources.DataSourceRegister)[0m

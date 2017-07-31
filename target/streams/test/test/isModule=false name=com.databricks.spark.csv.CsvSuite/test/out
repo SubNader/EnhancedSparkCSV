@@ -1,0 +1,55 @@
+[0m[[0minfo[0m] [0m[32mCsvSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test for iso-8859-1 encoded file[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test bad charset name[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with alias name[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with charset[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with tab separated file[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test parsing decimal type[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test for DROPMALFORMED parsing mode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test for DROPMALFORMED parsing mode with pruned scan[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test for FAILFAST parsing mode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test roundtrip nulls[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test for tokens more than the schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with alternative delimiter and quote[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with null quote character[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with alternative delimiter and quote using sparkContext.csvFile[0m[0m
+[0m[[0minfo[0m] [0m[32m- Expect parsing error with wrong delimiter setting using sparkContext.csvFile[0m[0m
+[0m[[0minfo[0m] [0m[32m- Expect wrong parsing results with wrong quote setting using sparkContext.csvFile[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with alternative delimiter and quote[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with empty file and known schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with poorly formatted file and string schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test with poorly formatted file and known schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with empty file[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL column names test[0m[0m
+[0m[[0minfo[0m] [0m[32m- SQL test insert overwrite[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with a quoteMode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with non numeric quoteMode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with null quoteMode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL checking non null escapeChar is set before NONE quoteMode[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with a compression codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- Scala API save with gzip compression codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- Scala API save with gzip compression codec by shorten name[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with quoting[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with alternate quoting[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL save with quoting, escaped quote[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test schema inferred correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test inferred schema passed through[0m[0m
+[0m[[0minfo[0m] [0m[32m- DDL test with inferred schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test nullable fields[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test nullable fields with user defined null value of "null"[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL test nullable fields with user defined null value of "\N"[0m[0m
+[0m[[0minfo[0m] [0m[32m- Commented lines in CSV data[0m[0m
+[0m[[0minfo[0m] [0m[32m- Inferring schema[0m[0m
+[0m[[0minfo[0m] [0m[32m- Inferring timestamp types via custom date format[0m[0m
+[0m[[0minfo[0m] [0m[32m- Load date types via custom date format[0m[0m
+[0m[[0minfo[0m] [0m[32m- Setting comment to null disables comment support[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL allows for setting maxColsPerChar and expect error[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL allows for setting maxColsPerChar and succeeds[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL load csv from rdd[0m[0m
+[0m[[0minfo[0m] [0m[32m- Inserting into csvRdd should throw exception[0m[0m
+[0m[[0minfo[0m] [0m[32m- DSL tsv test[0m[0m
+[0m[[0minfo[0m] [0m[32m- Type/Schema inference works as expected for the simple sparse dataset.[0m[0m

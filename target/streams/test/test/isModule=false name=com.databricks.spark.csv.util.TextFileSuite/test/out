@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mTextFileSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- read utf-8 encoded file[0m[0m
+[0m[[0minfo[0m] [0m[32m- read utf-8 encoded file using charset alias[0m[0m
+[0m[[0minfo[0m] [0m[32m- read iso-8859-1 encoded file[0m[0m
+[0m[[0minfo[0m] [0m[32m- read iso-8859-1 encoded file using charset alias[0m[0m
+[0m[[0minfo[0m] [0m[32m- read iso-8859-1 encoded file with invalid charset[0m[0m
+[0m[[0minfo[0m] [0m[32m- unsupported charset[0m[0m

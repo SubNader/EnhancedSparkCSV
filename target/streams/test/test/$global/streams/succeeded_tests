@@ -1,0 +1,12 @@
+#Successful Tests
+#Sun Jul 02 13:22:56 EET 2017
+com.databricks.spark.csv.JavaCsvSuite=1498994576263
+com.databricks.spark.csv.util.InferSchemaSuite=1498994575527
+com.databricks.spark.csv.util.TextFileSuite=1498994561938
+com.databricks.spark.csv.CsvFastWriteSuite=1498994561481
+com.databricks.spark.csv.CsvFastSuite=1498994575494
+com.databricks.spark.csv.util.TypeCastSuite=1498994575515
+com.databricks.spark.csv.util.CompressionCodecsSuite=1498994561946
+com.databricks.spark.csv.CsvSuite=1498994570094
+com.databricks.spark.csv.CsvWriteSuite=1498994560925
+com.databricks.spark.csv.readers.ReaderSuite=1498994555367

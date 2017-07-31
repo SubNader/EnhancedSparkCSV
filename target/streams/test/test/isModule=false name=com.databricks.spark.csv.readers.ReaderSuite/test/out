@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mReaderSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Hygiene[0m[0m
+[0m[[0minfo[0m] [0m[32m- Regular case[0m[0m
+[0m[[0minfo[0m] [0m[32m- Empty iter[0m[0m
+[0m[[0minfo[0m] [0m[32m- Embedded new line[0m[0m
+[0m[[0minfo[0m] [0m[32m- Buffer Regular case[0m[0m
+[0m[[0minfo[0m] [0m[32m- Buffer Empty iter[0m[0m
+[0m[[0minfo[0m] [0m[32m- Buffer Embedded new line[0m[0m

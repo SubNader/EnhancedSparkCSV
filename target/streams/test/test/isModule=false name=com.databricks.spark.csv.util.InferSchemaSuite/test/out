@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mInferSchemaSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- String fields types are inferred correctly from null types[0m[0m
+[0m[[0minfo[0m] [0m[32m- Null fields are handled properly when a nullValue is specified[0m[0m
+[0m[[0minfo[0m] [0m[32m- String fields types are inferred correctly from other types[0m[0m
+[0m[[0minfo[0m] [0m[32m- Timestamp field types are inferred correctly via custom data format[0m[0m
+[0m[[0minfo[0m] [0m[32m- Timestamp field types are inferred correctly from other types[0m[0m
+[0m[[0minfo[0m] [0m[32m- Merging Nulltypes should yeild Nulltype.[0m[0m
+[0m[[0minfo[0m] [0m[32m- Boolean fields types are inferred correctly from other types[0m[0m
+[0m[[0minfo[0m] [0m[32m- Type arrays are merged to highest common type[0m[0m

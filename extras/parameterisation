@@ -1,0 +1,1 @@
+Log paths can be set by passing -DrejectionLogPath=path and -DrejectionErrorsLogPath=path as JVM arguments.
